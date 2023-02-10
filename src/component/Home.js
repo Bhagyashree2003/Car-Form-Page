@@ -1,13 +1,15 @@
 import React from "react";
 import GetInTouch from "./GetInTouch";
 import CarForm from "./CarForm";
+
 function Home() {
   return (
     <div
-      className="container "
+      className="cont "
       style={{
         // backgroundColor: "black",
-        backgroundImage: "/src/images/car.jpg",
+        // backgroundImage: "/src/images/car.jpg",
+
         backgroundSize: "cover",
         overflow: "hidden",
       }}
